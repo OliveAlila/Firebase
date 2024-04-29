@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249162617365",
+    "project_id": "fir-f8141",
+    "storage_bucket": "fir-f8141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249162617365:android:017879c97ff4e216f6341c",
+        "android_client_info": {
+          "package_name": "com.olive.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGMdwIf1LcIdxdCGAueNFHbWGfYJInTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
